@@ -66,7 +66,7 @@ cask 'quicklook-json'
 # Games
 cask 'battle-net'
 cask 'multimc'
-cast 'steam'
+cask 'steam'
 
 # Fonts
 cask 'font-lato'
