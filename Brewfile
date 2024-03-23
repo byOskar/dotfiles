@@ -17,6 +17,7 @@ brew 'java'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
+brew 'python'
 brew 'stripe/stripe-cli/stripe'
 brew 'stripe/stripe-mock/stripe-mock'
 brew 'svn' # Needed to install fonts
@@ -45,14 +46,17 @@ cask 'phpstorm'
 cask 'qbittorrent'
 cask 'ray'
 cask 'raycast'
+cask 'signal'
 cask 'slack'
 cask 'spotify'
+cask 'stats'
 cask 'tableplus'
 cask 'telegram-desktop'
 cask 'the-unarchiver'
 cask 'tinkerwell'
 cask 'visual-studio-code'
 cask 'vlc'
+cask 'warp'
 cask 'zoom'
 
 # Quicklook
